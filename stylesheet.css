@@ -1,0 +1,44 @@
+body {
+    background-image: url( "images/green_felt.jpg" );
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 150%;
+    color: white;
+}
+
+#game {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#control {
+    text-align: center;
+}
+
+.card-cell{
+    padding: 1rem;
+}
+
+.card {
+    height: 6rem;
+    filter: drop-shadow( 5px 5px 0.25rem black );
+}
+
+.chosen {
+    background-color: rgba( 0, 0, 0, 0.75 );
+}
+
+.correct {
+    outline: 0.5rem solid greenyellow;
+}
+
+#deal {
+    text-align: center;
+}
+
+#hand-display {
+    width: 150px;
+    height: 200px;
+    resize: none;
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<symbol  id="DIAMOND" viewBox="-12.869 -19.302 25.738 38.604">
+	<polygon fill="#B92026" points="-12.869,0.001 0.001,19.302 12.869,0.001 6.982,-8.829 0.001,-19.302 	"/>
+</symbol>
+<path fill="#FFFFFF" d="M100,90c0,5.523-4.478,10-10,10H10c-5.522,0-10-4.477-10-10V10C0,4.477,4.478,0,10,0h80
+	c5.522,0,10,4.477,10,10V90z"/>
+<path fill="#B92226" d="M32.066,80.361h6.714v-8.689H6v-8.59L40.26,8.777h9.086v52.033h10.17v10.861h-10.17v8.689h5.035v10.861
+	H32.066V80.361z M20.158,60.811H38.78V31.295L20.158,60.811z"/>
+<g>
+	
+		<use xlink:href="#DIAMOND"  width="25.738" height="38.604" x="-12.869" y="-19.302" transform="matrix(0.777 0 0 -0.777 79 55.1152)" overflow="visible"/>
+</g>
+</svg>
